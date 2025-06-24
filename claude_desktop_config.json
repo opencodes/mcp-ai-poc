@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "mcp-sum": {
+      "command": "/Users/rkjha/codebase/ai-poc/mcp-ai-poc/venv/bin/python",
+      "args": ["/Users/rkjha/codebase/ai-poc/mcp-ai-poc/mcp-sum.py"]
+    },
+    "mcp-readme": {
+      "command": "/Users/rkjha/codebase/ai-poc/mcp-ai-poc/venv/bin/python",
+      "args": ["/Users/rkjha/codebase/ai-poc/mcp-ai-poc/mcp-readme.py"]
+    }
+  }
+}
